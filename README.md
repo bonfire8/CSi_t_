@@ -1,9 +1,9 @@
 # OS-study
 
-- [강의 링크](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
-- [깃헙 레포지토리](https://github.com/seunghee73/CS-study)
+✏ [강의 링크](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
+✏ [깃헙 레포지토리](https://github.com/seunghee73/CS-study)
 
-- 스터디 계획
+✨ 스터디 계획 ✨
 
   매주 정해진 강의 들어오기
 
