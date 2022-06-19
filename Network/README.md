@@ -2,6 +2,10 @@
 
 ✏ [강의 링크](http://www.kocw.net/home/cview.do?mty=p&kemId=1169634)
 
+✏ [깃헙 레포지토리](https://github.com/seunghee73/CS-study/tree/master/Network)
+
+<br>
+
 ✨ 스터디 계획 ✨
 
   매주 정해진 강의 들어오기
