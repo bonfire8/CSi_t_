@@ -1,6 +1,6 @@
 # OS-study
 
-✏ [강의 링크](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
+✏ [강의 링크](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)<br>
 ✏ [깃헙 레포지토리](https://github.com/seunghee73/CS-study/tree/master/Operating%20System)
 
 <br>
