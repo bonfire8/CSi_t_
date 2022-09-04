@@ -22,8 +22,8 @@
 
 ### 스마트 컨트랙트
 
-![](C:\Users\user\AppData\Roaming\marktext\images\2022-09-04-22-59-53-image.png)
+![](C:/Users/user/AppData/Roaming/marktext/images/2022-09-04-22-59-53-image.png)
 
-![](C:\Users\user\AppData\Roaming\marktext\images\2022-09-04-23-00-47-image.png)
+![](C:/Users/user/AppData/Roaming/marktext/images/2022-09-04-23-00-47-image.png)
 
-![](C:\Users\user\AppData\Roaming\marktext\images\2022-09-04-23-01-26-image.png)
+![](C:/Users/user/AppData/Roaming/marktext/images/2022-09-04-23-01-26-image.png)
